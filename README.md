@@ -2,7 +2,7 @@
 
 Implementación en Python del algoritmo de búsqueda binaria, acompañada de pruebas unitarias para casos comunes y casos límite.
 
-## Descripción general
+## Descripción generalmnb
 
 Este proyecto muestra cómo funciona la búsqueda binaria sobre listas ordenadas y cómo validar su comportamiento mediante pruebas automatizadas. Incluye ejemplos para búsquedas exitosas, valores no encontrados, listas vacías, listas con un solo elemento y elementos duplicados.
 
